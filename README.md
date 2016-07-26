@@ -1,7 +1,7 @@
 # right-to-left Writing
-##Arabian Navbar and HTML
+##Arabic Navbar and HTML
 
-If you want to translate a text into Arabian style, you have to use three options.
+If you want to translate a text into Arabic style, you have to use three options.
 
 The first is an html addiction with a **dir="rtl"** tag.
 In HTML5, the dir attribute can be used on any HTML element.
