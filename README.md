@@ -18,15 +18,15 @@ Add into your html **pull-right** and **navbar-right**
 
 Last but not least, another bdi tag.
 BDI stands for Bi-Directional Isolation and it puts inside html. It's so helpful when you don't know the direction of text.
-*Example:*
+
+> *Example:*
 > <ul>
-> <li>Test <bdi>alba</bdi></li>
-> <li>Test <bdi>rtrs</bdi></li>
-> <li>Test <bdi>إيان</bdi></li>
+>  <li>Test <bdi>alba</bdi></li>
+>  <li>Test <bdi>rtrs</bdi></li>
+>  <li>Test <bdi>إيان</bdi></li>
 > </ul>
 ***advice for this exercise***
 The code inside bdi tag has a different orientation
-_________________
 
 Source:
 + https://css-tricks.com/almanac/properties/d/direction/
