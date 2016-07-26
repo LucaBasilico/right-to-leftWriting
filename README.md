@@ -1,6 +1,5 @@
 # right-to-left Writing
-##We will see a navbar with an Arabian style.
-##Arabian Translation
+##Arabian Navbar and HTML
 
 If you want to translate a text into Arabian style, you have to use two options.
 
