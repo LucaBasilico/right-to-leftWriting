@@ -1,5 +1,6 @@
-# right-to-leftWriting
-We will see a navbar with an Arabian style.
+# right-to-left Writing
+##We will see a navbar with an Arabian style.
+##Arabian Translation
 
 If you want to translate a text into Arabian style, you have to use two options.
 
@@ -13,4 +14,9 @@ body{
   direction: rtl;
 }
 
-Source: https://css-tricks.com/almanac/properties/d/direction/
+Otherwise **navbar** needs a Bootstrap changes.
+Add into your html **pull-right** and **navbar-right**
+
+Source:
+https://css-tricks.com/almanac/properties/d/direction/
+http://bootsnipp.com/snippets/r101E
