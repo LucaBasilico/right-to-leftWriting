@@ -29,5 +29,6 @@ The code inside bdi tag has a different orientation
 _________________
 
 Source:
-*https://css-tricks.com/almanac/properties/d/direction/
-*http://bootsnipp.com/snippets/r101E
+
++ https://css-tricks.com/almanac/properties/d/direction/
++ http://bootsnipp.com/snippets/r101E
