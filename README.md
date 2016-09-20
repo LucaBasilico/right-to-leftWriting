@@ -1,5 +1,5 @@
-# right-to-left Writing
-##Arabic Navbar and HTML
+# Arabic Styles
+##Right to left writing: Navbar and HTML
 
 If you want to translate a text into Arabic style, you have to use three options.
 
@@ -31,3 +31,27 @@ The code inside bdi tag has a different orientation
 Source:
 + https://css-tricks.com/almanac/properties/d/direction/
 + http://bootsnipp.com/snippets/r101E
+
+---------------
+# Arabian Table
+When you HTML page contains a table, or many tables, you have to change the direction. For this reason you have to put **direction: rtl** inside you table tag:
+> *Example:*
+> <table style="direction="rtl";">
+>  <tr>
+>    <th>Firstname</th>
+>   <th>Lastname</th>
+> </tr>
+>  <tr>
+>    <td>Luca</td>
+>    <td>Basilico</td>
+>  </tr> 
+> </table>
+
+---------------
+#Exisisting page
+If you want to change a HTML page, you have to change these elements:
+1. Float
+2. Right/Left
+3. Text-align
+
+Another important aspect is to change two elements as *padding* and *margin* because you should reset images.
