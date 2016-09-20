@@ -36,16 +36,16 @@ Source:
 # Arabian Table
 When you HTML page contains a table, or many tables, you have to change the direction. For this reason you have to put **direction: rtl** inside you table tag:
 > *Example:*
-> <table style="direction="rtl";">
->  <tr>
->    <th>Firstname</th>
->   <th>Lastname</th>
-> </tr>
->  <tr>
->    <td>Luca</td>
->    <td>Basilico</td>
->  </tr> 
-> </table>
+ <table style="direction="rtl";">
+  <tr>
+    <th>Firstname</th>
+   <th>Lastname</th>
+ </tr>
+  <tr>
+    <td>Luca</td>
+    <td>Basilico</td>
+  </tr> 
+ </table>
 
 ---------------
 #Exisisting page
