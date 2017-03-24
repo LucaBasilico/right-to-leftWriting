@@ -1,4 +1,4 @@
-# Arabic Styles
+# Left to right - what to do
 ##Right to left writing: Navbar and HTML
 
 If you want to translate a text into Arabic style, you have to use three options.
